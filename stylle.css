@@ -1,0 +1,53 @@
+body{
+   
+    background-image: url(83-838296_web-designer-professional-website-background-images.jpg);
+
+}
+.kk{
+    text-align: center;
+    
+       
+    margin-right: 500px;
+    margin-left: 500px;
+
+}
+.kk2{
+    
+     
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 50px;
+    margin-right: 100px;
+}
+.kk3{
+
+    
+     margin: 50px;
+    margin-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+.kk4{
+    
+    padding-top: 50px;
+    margin: 10px 250px 10px 250px;
+
+    text-align: center;
+}
+
+.f{
+    text-align: center;
+    background-color: crimson;
+    margin: 20px 500px 20px 500px;
+    border-style: double;
+
+}
+.ok{
+    display: flex;
+}
